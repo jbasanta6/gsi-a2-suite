@@ -1,0 +1,362 @@
+[
+  {
+    "topic": "t1",
+    "text": "Forma política del Estado español (art. 1.3)",
+    "options": [
+      "República parlamentaria",
+      "Monarquía parlamentaria",
+      "República presidencialista",
+      "Monarquía con poder ejecutivo del Rey"
+    ],
+    "answerIndex": 1,
+    "explanation": "Monarquía parlamentaria."
+  },
+  {
+    "topic": "t1",
+    "text": "Artículos de la CE 1978",
+    "options": [
+      "155",
+      "169",
+      "178",
+      "198"
+    ],
+    "answerIndex": 1,
+    "explanation": "169 artículos."
+  },
+  {
+    "topic": "t1",
+    "text": "Orden correcto de 1978",
+    "options": [
+      "Publicación, referéndum, sanción, aprobación",
+      "Aprobación, referéndum, sanción, publicación",
+      "Referéndum, aprobación, sanción, publicación",
+      "Aprobación, sanción, referéndum, publicación"
+    ],
+    "answerIndex": 1,
+    "explanation": "31/10; 06/12; 27/12; 29/12."
+  },
+  {
+    "topic": "t1",
+    "text": "Derechos de máxima protección",
+    "options": [
+      "30–38",
+      "14 y 15–29",
+      "39–52",
+      "Solo 14"
+    ],
+    "answerIndex": 1,
+    "explanation": "Art. 14 y Sección 1.ª (15–29)."
+  },
+  {
+    "topic": "t2",
+    "text": "Quién nombra al FGE",
+    "options": [
+      "Gobierno",
+      "Rey a propuesta del Gobierno y oído CGPJ",
+      "Cortes Generales",
+      "CGPJ"
+    ],
+    "answerIndex": 1,
+    "explanation": "Art. 124 CE."
+  },
+  {
+    "topic": "t2",
+    "text": "NO es principio del art. 117 CE",
+    "options": [
+      "Independencia",
+      "Inamovilidad",
+      "Exclusividad",
+      "Colegiación"
+    ],
+    "answerIndex": 3,
+    "explanation": "Colegiación no figura."
+  },
+  {
+    "topic": "t3",
+    "text": "Organización territorial (art. 137)",
+    "options": [
+      "Mun., prov., comarcas",
+      "Mun., prov. y CCAA",
+      "Prov. y CCAA",
+      "Mun. y CCAA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Municipios, provincias y CCAA."
+  },
+  {
+    "topic": "t3",
+    "text": "Vía extraordinaria de autonomía",
+    "options": [
+      "Art. 143",
+      "Art. 151",
+      "Art. 149",
+      "DT 2ª"
+    ],
+    "answerIndex": 1,
+    "explanation": "Art. 151 CE."
+  },
+  {
+    "topic": "t4",
+    "text": "NO es principio del art. 103 CE",
+    "options": [
+      "Objetividad",
+      "Eficacia",
+      "Centralización",
+      "Coordinación"
+    ],
+    "answerIndex": 2,
+    "explanation": "Centralización no aparece."
+  },
+  {
+    "topic": "t4",
+    "text": "Control judicial Admón",
+    "options": [
+      "Art. 103",
+      "Art. 106",
+      "Art. 107",
+      "Art. 120"
+    ],
+    "answerIndex": 1,
+    "explanation": "Art. 106 CE."
+  },
+  {
+    "topic": "t6",
+    "text": "Órganos superiores (central)",
+    "options": [
+      "Ministros y SE",
+      "Subsecretarios/SG",
+      "SGT/DG",
+      "SDG"
+    ],
+    "answerIndex": 0,
+    "explanation": "LRJSP art. 55.3."
+  },
+  {
+    "topic": "t6",
+    "text": "Rango Delegado del Gobierno",
+    "options": [
+      "DG",
+      "SDG",
+      "Subsecretario",
+      "SG"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rango Subsecretario."
+  },
+  {
+    "topic": "t6",
+    "text": "Nivel Subdelegado del Gobierno",
+    "options": [
+      "SDG",
+      "SGT",
+      "DG",
+      "SE"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nivel SDG."
+  },
+  {
+    "topic": "t6",
+    "text": "Servicios integrados/no integrados",
+    "options": [
+      "Integrados→Ministerio; no integrados→Delegado",
+      "Integrados→Delegado; no integrados→órgano central",
+      "Ambos→Delegado",
+      "Ambos→Ministerio"
+    ],
+    "answerIndex": 1,
+    "explanation": "LRJSP art. 71."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #15",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #16",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #17",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #18",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #19",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #20",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #21",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #22",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #23",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #24",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #25",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #26",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #27",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #28",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #29",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  },
+  {
+    "topic": "t1",
+    "text": "Pregunta de repaso CE #30",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repaso general."
+  }
+]
