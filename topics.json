@@ -1,0 +1,237 @@
+[
+  {
+    "id": "t1",
+    "name": "Temas 1, 2, 3, 4, 6: Marco constitucional español",
+    "stars": 3
+  },
+  {
+    "id": "t3",
+    "name": "Temas 7, 8, 22: Actuación administrativa y Leyes 39 y 40",
+    "stars": 3
+  },
+  {
+    "id": "t6",
+    "name": "Temas 14, 15, 16, 17, 18 y 19, 51: Estructura social y económica de España",
+    "stars": 1
+  },
+  {
+    "id": "t7",
+    "name": "Temas 20, 21, 22, 23, 24, 25, 26: Dirección pública",
+    "stars": 2
+  },
+  {
+    "id": "t8",
+    "name": "Tema 27, 82: Protección de Datos de Carácter Personal",
+    "stars": 2
+  },
+  {
+    "id": "t9",
+    "name": "Temas 28, 29 y 34: Organización y gestión de los sistemas de información",
+    "stars": 1
+  },
+  {
+    "id": "t10",
+    "name": "Tema 30: Gobernanza TIC",
+    "stars": 3
+  },
+  {
+    "id": "t11",
+    "name": "Tema 31: Reutilización de la información en el sector público. Datos abiertos y transparencia",
+    "stars": 2
+  },
+  {
+    "id": "t12",
+    "name": "Temas 32, 33, 87: Estrategias y herramientas directivo público",
+    "stars": 1
+  },
+  {
+    "id": "t13",
+    "name": "Tema 35: Gestión de Proyectos",
+    "stars": 1
+  },
+  {
+    "id": "t14",
+    "name": "Temas 36, 94 y 98: Metodologías predictivas (Gantt y Pert) y metodología Métrica",
+    "stars": 2
+  },
+  {
+    "id": "t15",
+    "name": "Temas 37, 86 y 88: Metodologías ágiles y modelos de ciclo de vida",
+    "stars": 3
+  },
+  {
+    "id": "t16",
+    "name": "Tema 38: Auditoría",
+    "stars": 1
+  },
+  {
+    "id": "t17",
+    "name": "Tema 40, 41 y 42: Adquisición de sistemas y rentabilidad de inversiones",
+    "stars": 1
+  },
+  {
+    "id": "t18",
+    "name": "Tema 43: Ley de Propiedad Intelectual. Protección jurídica de programas de ordenador",
+    "stars": 1
+  },
+  {
+    "id": "t19",
+    "name": "Tema 44: Accesibilidad y usabilidad",
+    "stars": 1
+  },
+  {
+    "id": "t20",
+    "name": "Tema 45 y 46: Interoperabilidad de sistemas",
+    "stars": 2
+  },
+  {
+    "id": "t21",
+    "name": "Temas 47 y 128: Seguridad de sistemas. Gestión de riesgos y continuidad",
+    "stars": 2
+  },
+  {
+    "id": "t22",
+    "name": "Temas 48 y 126: Esquema Nacional de Seguridad. Ciberseguridad",
+    "stars": 3
+  },
+  {
+    "id": "t23",
+    "name": "Tema 49: Servicios Comunes",
+    "stars": 2
+  },
+  {
+    "id": "t24",
+    "name": "Tema 50: Organismos de normalización",
+    "stars": 1
+  },
+  {
+    "id": "t25",
+    "name": "Tema 55: Cloud computing",
+    "stars": 2
+  },
+  {
+    "id": "t26",
+    "name": "Temas 52, 53, 54, 56, 57 y 132: Hardware",
+    "stars": 3
+  },
+  {
+    "id": "t27",
+    "name": "Temas 52, 59, 60, 61, 62: Sistemas Operativos",
+    "stars": 2
+  },
+  {
+    "id": "t28",
+    "name": "Temas 58 y 91: Arquitectura SOA y requisitos no funcionales",
+    "stars": 2
+  },
+  {
+    "id": "t29",
+    "name": "Temas 63, 64 y 89: Bases de datos",
+    "stars": 2
+  },
+  {
+    "id": "t30",
+    "name": "Temas 65, 66, 67, 68, 72, 77, 85, 107: Tecnologías de Sistemas de Información",
+    "stars": 3
+  },
+  {
+    "id": "t31",
+    "name": "Tema 69: Software de código abierto y libre",
+    "stars": 1
+  },
+  {
+    "id": "t32",
+    "name": "Temas 70 y 71: Inteligencia artificial y ciencia de datos",
+    "stars": 2
+  },
+  {
+    "id": "t33",
+    "name": "Temas 73, 74: E‑Learning. Sistemas de Información Geográfica",
+    "stars": 1
+  },
+  {
+    "id": "t34",
+    "name": "Temas 71, 75 y 76: Business Intelligence y Big Data",
+    "stars": 2
+  },
+  {
+    "id": "t35",
+    "name": "Tema 78: Comercio electrónico y Factura electrónica",
+    "stars": 1
+  },
+  {
+    "id": "t36",
+    "name": "Temas 79, 80 y 81: Seguridad",
+    "stars": 3
+  },
+  {
+    "id": "t37",
+    "name": "Temas 83 y 84: Tratamiento de imágenes",
+    "stars": 1
+  },
+  {
+    "id": "t38",
+    "name": "Temas 88, 90, 92, 94 y 97: Análisis y Diseño · Integración continua",
+    "stars": 3
+  },
+  {
+    "id": "t39",
+    "name": "Temas 96, 98, 100, 101, 102, 103: Calidad, Estimación, Mantenimiento",
+    "stars": 3
+  },
+  {
+    "id": "t40",
+    "name": "Temas 104 y 105: Gestión documental",
+    "stars": 1
+  },
+  {
+    "id": "t41",
+    "name": "Tema 106: ITIL y COBIT",
+    "stars": 1
+  },
+  {
+    "id": "t42",
+    "name": "Temas 108, 109, 110, 113, 118, 119, 120, 121: Redes",
+    "stars": 3
+  },
+  {
+    "id": "t43",
+    "name": "Temas 111, 112, 115, 116: Protocolos y Enrutamiento. VoIP",
+    "stars": 3
+  },
+  {
+    "id": "t44",
+    "name": "Tema 117: Industria 4.0, Ciudades inteligentes, IoT",
+    "stars": 1
+  },
+  {
+    "id": "t45",
+    "name": "Tema 122: Correo electrónico. Mensajería y directorio",
+    "stars": 1
+  },
+  {
+    "id": "t46",
+    "name": "Temas 114 y 123: Redes inalámbricas y Comunicaciones móviles",
+    "stars": 3
+  },
+  {
+    "id": "t47",
+    "name": "Tema 124: Aplicaciones Móviles",
+    "stars": 2
+  },
+  {
+    "id": "t48",
+    "name": "Temas 125 y 126: Seguridad en redes y a nivel aplicación",
+    "stars": 3
+  },
+  {
+    "id": "t49",
+    "name": "Tema 129: Normas reguladoras de las telecomunicaciones",
+    "stars": 1
+  },
+  {
+    "id": "t50",
+    "name": "Temas 130, 131 y 133: Videoconferencia, SSO y colaboración",
+    "stars": 1
+  }
+]
